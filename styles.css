@@ -338,3 +338,8 @@ h2 {
   color: #666;
   margin-bottom: 20px;
 }
+
+.project-card h3 a {
+  text-decoration: none;
+}
+
