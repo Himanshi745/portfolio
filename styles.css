@@ -18,7 +18,9 @@ body {
   margin: 0 auto;
   padding: 20px;
 }
-
+.about_me{
+  text-align:justify;
+}
 /* Hide the checkbox but keep it functional */
 .menu-toggle {
   display: none; /* This hides the checkbox from the UI */
